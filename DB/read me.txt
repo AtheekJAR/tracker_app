@@ -1,0 +1,3 @@
+1. creat a new database " income_expense_app"
+
+2. after that import this database
